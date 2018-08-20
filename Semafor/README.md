@@ -3,7 +3,7 @@
 
 Пример программы для IR маяка водного полигона
 
-[Схема маяка](https://raw.githubusercontent.com/voltbro/ats-nti/Semafor/Scheme-Mayak-2018.pdf)
+[Схема маяка](https://raw.githubusercontent.com/voltbro/ats-nti/master/Semafor/Scheme-Mayak-2018.pdf)
 
 Дополнительные библиотеки Arduino
 -----
